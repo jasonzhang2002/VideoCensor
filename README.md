@@ -1,4 +1,4 @@
-Final Project for CSCI-GA 2265
+Final Project for CSCI-GA 2565
 
 video_censor_demo.ipynb contains a demo of the application if one follows along the notebook using Google Colab.
 Note, one should use a GPU to get desired run-times.
